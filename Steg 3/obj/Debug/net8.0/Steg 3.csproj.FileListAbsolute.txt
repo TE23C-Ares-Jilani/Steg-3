@@ -12,3 +12,4 @@ C:\Users\ares.jilani\Documents\prog-1\Steg 3\Steg 3\obj\Debug\net8.0\refint\Steg
 C:\Users\ares.jilani\Documents\prog-1\Steg 3\Steg 3\obj\Debug\net8.0\Steg 3.pdb
 C:\Users\ares.jilani\Documents\prog-1\Steg 3\Steg 3\obj\Debug\net8.0\Steg 3.genruntimeconfig.cache
 C:\Users\ares.jilani\Documents\prog-1\Steg 3\Steg 3\obj\Debug\net8.0\ref\Steg 3.dll
+C:\Users\ares.jilani\Documents\prog-1\Steg 3\Steg 3\obj\Debug\net8.0\Steg 3.sourcelink.json
